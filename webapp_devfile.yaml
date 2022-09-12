@@ -4,6 +4,6 @@ metadata:
 components:
   - name: webapp
     container:
-      image: 8660719080/node-demo
+      image: 8660719080/node-demo:latest
       memoryLimit: 1024Mi
     
