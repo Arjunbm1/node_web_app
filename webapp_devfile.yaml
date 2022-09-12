@@ -1,0 +1,9 @@
+schemaVersion: 2.1.0
+metadata:
+    name: mydevfile
+components:
+  - name: webapp
+    container:
+      image: 8660719080/node-demo
+      memoryLimit: 1024Mi
+    
